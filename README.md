@@ -3,7 +3,7 @@
 <img src="" width="1200">
 
 
-*Project Overview*
+**Project Overview**
 
 The project utilizes a dataset of monthly international airline passengers from January 1949 to December 1960. The main objective is to predict future passenger numbers and evaluate the performance of different time series models.
 
