@@ -1,6 +1,6 @@
 # Airline_Passenger_Forecast
 "Forecasting airline passenger numbers using time series analysis with ARIMA, SARIMA, and ETS models to explore and compare different approaches for accurate prediction."
-<img src="" width="1200">
+<img src="https://github.com/rpjinu/Airline_Passenger_Forecast/blob/main/air_passenger.png" width="900">
 
 
 **Project Overview**
