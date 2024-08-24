@@ -7,29 +7,29 @@
 
 The project utilizes a dataset of monthly international airline passengers from January 1949 to December 1960. The main objective is to predict future passenger numbers and evaluate the performance of different time series models.
 
-*Dataset*
+**Dataset**
 Source: Time Series Data Library\
-*Attributes*
+**Attributes**
 Month: Time period (YYYY-MM format)\
 Passengers: Number of passengers (in thousands)\
-*Models Implemented*
+**Models Implemented**
 ARIMA (AutoRegressive Integrated Moving Average):\
 Captures the linear relationship and trends within the time series.\
 SARIMA (Seasonal ARIMA):\
 ETS (Error, Trend, Seasonal):\
 Decomposes the time series into error, trend, and seasonal components.\
-*Project Workflow*
+**Project Workflow**
 Data Processing:-\
 
 Loaded and visualized the dataset.\
 Managed any missing data and prepared the dataset for modeling.\
 Split the data into training and testing sets for model evaluation.\
-*Model Training:*
+**Model Training:**
 
 Trained ARIMA, SARIMA, and ETS models on the training dataset.\
 Evaluated models using metrics like RMSE and AIC.
 Visualized the forecasting results to assess model performance.
-Model Selection and Saving:
+**Model Selection and Saving:**
 
 Selected SARIMA as the best-performing model.
 Saved the trained SARIMA model for future forecasting.
