@@ -8,11 +8,11 @@
 The project utilizes a dataset of monthly international airline passengers from January 1949 to December 1960. The main objective is to predict future passenger numbers and evaluate the performance of different time series models.
 
 **Dataset:-**\
-Source: Time Series Data Library\
+Source: Time Series Data Library
 
 **Attributes:-**\
 Month: Time period (YYYY-MM format)\
-Passengers: Number of passengers (in thousands)\
+Passengers: Number of passengers (in thousands)
 
 **Models Implemented:-**\
 
@@ -22,7 +22,7 @@ SARIMA (Seasonal ARIMA):\
 ETS (Error, Trend, Seasonal):\
 Decomposes the time series into error, trend, and seasonal components.\
 
-**Project Workflow:-**\
+**Project Workflow:-**
 
 Data Processing:-\
 
