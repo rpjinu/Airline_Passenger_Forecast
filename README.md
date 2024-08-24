@@ -27,9 +27,9 @@ Split the data into training and testing sets for model evaluation.\
 **Model Training:**
 
 Trained ARIMA, SARIMA, and ETS models on the training dataset.\
-Evaluated models using metrics like RMSE and AIC.
-Visualized the forecasting results to assess model performance.
+Evaluated models using metrics like RMSE and AIC.\
+Visualized the forecasting results to assess model performance.\
 **Model Selection and Saving:**
 
-Selected SARIMA as the best-performing model.
+Selected SARIMA as the best-performing model.\
 Saved the trained SARIMA model for future forecasting.
